@@ -1,5 +1,5 @@
 <h1 align="center">Web template Lexiconsz ICT 💻</h1>
-<h3 align="center">Free to use dont remove <what u want>| © LexiconszICT</h3>
+<h3 align="center">Free to use dont remove (ex: Nethosting) | © LexiconszICT</h3>
 
 - 🔭 Made by **Lexiconsz ICT**
 
